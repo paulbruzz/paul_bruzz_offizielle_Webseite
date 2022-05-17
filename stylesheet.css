@@ -29,7 +29,6 @@ h3{
 
 button{
   position: relative;
-  padding-top: 2%;
-  padding-bottom: 2%;
-  margin: 3%;
+  margin-left: 3%;
+  margin-right: 3%;
 }
