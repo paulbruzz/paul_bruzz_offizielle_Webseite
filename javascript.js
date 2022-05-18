@@ -37,7 +37,7 @@ function changeMemeDescription(){
     document.getElementById("currentDescription").innerHTML = "Dieses Mem stammt aus Februar 2019 und zeigt die Sängerin Loredana Bertè, die damals am Sanremo Festival teilnahm, als Hades aus dem Disney-Film <em>Hercules</em>.<br />Die Idee kam mir aufgrund von ihrer blauen Haarfarbe.";
   }
   else if(srcIndex == 2){
-    document.getElementById("currentImage").alt = "Der Perugiamobil - Meme von Paolo Bruzzo";
+    document.getElementById("currentImage").alt = "Das Perugiamobil - Meme von Paolo Bruzzo";
     document.getElementById("currentDescription").innerHTML = "Surrealismus, meine Leidenschaft! Ich wandte die Texture des Logos von Perugia Fußballverein auf einem 3D-Modell vom VW Golf an. Im Vorgrund steht TV-Moderator Alberto Angela, der auf das Auto zeigt; im Hintergrund gibt es Grove Street aus <em>GTA San Andreas</em>. Der Text sagt: \"Keine Zeit für Erklärungen, steig im Perugiamobil ein\".";
   }
   else if(srcIndex == 3){
